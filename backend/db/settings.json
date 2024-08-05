@@ -1,0 +1,6 @@
+{
+    "mongoConfig": {
+      "serverUrl": "mongodb+srv://vks:WIDFf3oReoykC2jV@cluster0.h1apolm.mongodb.net/",
+      "database": "task"
+    }
+  }
